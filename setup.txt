@@ -1,1 +1,5 @@
 
+What we initially discussed is that you have asked me to create a modal dialog as you are not able to handle events
+For that, I suggested you to create a reusable modal dialog for handling this scenario.
+And furthermore, I only suggested you that we can try to implement this with Kendo library.
+But due to some inherent issues, we can't implement this functionality in full fledge.
