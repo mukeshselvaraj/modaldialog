@@ -1,6 +1,0 @@
-I tried the above & not able to implement the feature as the way we discussed.
-So, I did a lot of research in identifying the easier & rapid development, I made use of a library been used by the Angular core team.
-Also, getting an approval from PNG team for this approval is trivial as its Angular core library & its not a 3rd party library
-So, If you need just let know will get the licensed version of this library as I got approvals for several libraries earlier from PNG team.
-Also, its not an complicated issue to discuss about this prolonged.
-But, if you feel its bit tricky, then am free to hear your better suggestions.
