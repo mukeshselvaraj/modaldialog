@@ -1,8 +1,6 @@
-
-What we initially discussed is that you have asked me to create a modal dialog as you are not able to handle events
-For that, I suggested you to create a reusable modal dialog for handling this scenario.
-And furthermore, I only suggested you that we can try to implement this with Kendo library.
-But due to some inherent issues, we can't implement this functionality in full fledge.
-
-Yesterday, I have elaborated and very much explained you in detail that it will consume lot of time and effort if we need to achieve this by using BootStrap & it will be something equivalent to creatina component from scratch.
-So, you have asked me to move the code to a file to achieve this feature & then I agreed to do in that way.
+I tried the above & not able to implement the feature as the way we discussed.
+So, I did a lot of research in identifying the easier & rapid development, I made use of a library been used by the Angular core team.
+Also, getting an approval from PNG team for this approval is trivial as its Angular core library & its not a 3rd party library
+So, If you need just let know will get the licensed version of this library as I got approvals for several libraries earlier from PNG team.
+Also, its not an complicated issue to discuss about this prolonged.
+But, if you feel its bit tricky, then am free to hear your better suggestions.
